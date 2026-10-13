@@ -1,6 +1,6 @@
 # Mini Biblioteca 
 
-Projeto desenvolvido em Python para gerenciamento de livros, permitindo cadastrar, consultar, verificar disponibilidade, realizar empréstimos e devoluções, além de armazenar dados utilizando SQLite.
+Projeto da disciplina teste de software, desenvolvido em Python para gerenciamento de livros, permitindo cadastrar, consultar, verificar disponibilidade, realizar empréstimos e devoluções, além de armazenar dados utilizando SQLite.
 
 O projeto também conta com testes automatizados para verificar o funcionamento das funcionalidades e a qualidade do código.
 
